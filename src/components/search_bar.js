@@ -1,7 +1,3 @@
-/**
- * Created by saeidsadeh on 2017-10-15.
- */
-
 import React, { Component } from 'react';
 
 class SearchBar extends Component {

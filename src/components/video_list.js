@@ -1,6 +1,3 @@
-/**
- * Created by saeidsadeh on 2017-10-15.
- */
 import React from 'react';
 import VideoListItem from './video_list_item'
 

@@ -1,6 +1,3 @@
-/**
- * Created by saeidsadeh on 2017-10-15.
- */
 import _ from 'lodash'
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
